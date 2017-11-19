@@ -184,7 +184,7 @@ export class MyFileUploaderComponent implements OnInit {
   
 ## API
 
-#### <ng4-files-click>
+#### `<ng4-files-click>`
 
 #### `filesSelect: (Ng4FilesSelected) => void`
 
